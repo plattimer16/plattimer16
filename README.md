@@ -30,14 +30,15 @@ I am a results-driven **Data Engineer** with a focus on building high-integrity 
 
 ### 🏆 Key Achievement
 > **Data Pipeline Optimization**: Engineered a custom data pipeline that significantly improved data integrity and reduced processing latency, ensuring 100% consistency for downstream analytics.
+> *****Radio Astronomy Project**: Engineered hardware and software behind Santa Clara's Radio Astronomy Project, giving the school a remotely operated Radio Telescope
 
 ---
 
-### 🥋 Beyond the Code
+### Beyond the Code
 When I'm not optimizing pipelines or backtesting strategies, you can find me:
 - Competing in **Tennis, Paddle Tennis, and Padel** leagues.
 - Training on the mats (Jiu-Jitsu **Blue Belt**). 
-- I thrive in high-pressure, competitive environments—whether it's on the court, in the gym, or in the markets.
+- I thrive in high-pressure, competitive environments.
 
 ---
 ### 📊 Top Languages
