@@ -40,9 +40,8 @@ When I'm not optimizing pipelines or backtesting strategies, you can find me:
 - I thrive in high-pressure, competitive environments—whether it's on the court, in the gym, or in the markets.
 
 ---
-
-### 📈 GitHub Stats
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterlattimer&show_icons=true&theme=transparent)
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterlattimer/)
