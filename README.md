@@ -1,8 +1,8 @@
 # Hi, I'm Peter Lattimer 👋 
 
-### Data Engineer | Python Developer | Aspiring Quant
+### Data Scientist | Python Developer
 
-I am a results-driven **Data Engineer** with a focus on building high-integrity pipelines and scalable data architectures. Currently, I am bridging the gap between data engineering and **Quantitative Trading** by implementing Machine Learning and AI models within cloud environments.
+I am a Data Scientist with a focus on building high-integrity pipelines, scalable data architectures and implementing AI and Machine Learning into data extraction and processing.
 
 ---
 
@@ -24,21 +24,23 @@ I am a results-driven **Data Engineer** with a focus on building high-integrity 
 ---
 
 ### 🔭 Current Focus
-- 🤖 **ML/AI in the Cloud**: Building and deploying predictive models using cloud-native services.
-- 📈 **Quantitative Analysis**: Developing algorithms and backtesting strategies for financial markets.
-- 🏗 **Data Integrity**: Refining my recent work on high-reliability data pipelines to ensure "Single Source of Truth" accuracy.
+- 🤖 **ML/AI in the Cloud**: Deploying LLMs for both data ingestion and querying.
+- 📈 **Quantitative Analysis**: Researching edge through insider and corporate buyback activity.
+- 🏗 **Data Integrity**: Refining my recent work on automated extraction to ensure accuracy.
 
 ### 🏆 Key Achievement
+> **LLM Data Extraction Deployment**: Created prompts and pipeline for automated data extraction for 4 datasets.
+> **Snowflake MCP Server**: Collaborated on a custom Snowflake MCP server giving our clients access to database queries through their LLM of choice, no SQL needed.
 > **Data Pipeline Optimization**: Engineered a custom data pipeline that significantly improved data integrity and reduced processing latency, ensuring 100% consistency for downstream analytics.
 > *****Radio Astronomy Project**: Engineered hardware and software behind Santa Clara's Radio Astronomy Project, giving the school a remotely operated Radio Telescope
 
 ---
 
 ### Beyond the Code
-When I'm not optimizing pipelines or backtesting strategies, you can find me:
-- Competing in **Tennis, Paddle Tennis, and Padel** leagues.
-- Training on the mats (Jiu-Jitsu **Blue Belt**). 
-- I thrive in high-pressure, competitive environments.
+- Competing in **Tennis, Paddle Tennis, and Padel** leagues
+- Jiu-Jitsu blue belt
+- Favorite ski mountain is Stratton
+- Jets and Yankees fan
 
 ---
 ### 📊 Top Languages
