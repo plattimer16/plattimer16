@@ -2,7 +2,7 @@
 
 ### Data Scientist | Python Developer
 
-I am a Data Scientist with a focus on building high-integrity pipelines, scalable data architectures and implementing AI and Machine Learning into data extraction and processing.
+I am a Data Scientist and Automation Engineer with a focus on building high-integrity pipelines, scalable data architectures and implementing AI and Machine Learning into data extraction and processing.
 
 ---
 
@@ -29,7 +29,7 @@ I am a Data Scientist with a focus on building high-integrity pipelines, scalabl
 - **Data Integrity**: Refining my recent work on automated extraction to ensure accuracy.
 
 ### Key Achievement
-> **LLM Data Extraction Deployment**: Created prompts and pipeline for automated data extraction for 4 datasets.
+> **LLM Data Extraction Deployment**: Created prompts and pipeline for classification and extraction across multiple datasets and markets.
 > **Snowflake MCP Server**: Collaborated on a custom Snowflake MCP server giving our clients access to database queries through their LLM of choice, no SQL needed.
 > **Data Pipeline Optimization**: Engineered a custom data pipeline that significantly improved data integrity and reduced processing latency, ensuring 100% consistency for downstream analytics.
 > *****Radio Astronomy Project**: Engineered hardware and software behind Santa Clara's Radio Astronomy Project, giving the school a remotely operated Radio Telescope
