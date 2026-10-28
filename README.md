@@ -1,4 +1,4 @@
-# Hi, I'm Peter Lattimer 👋 
+# Hi, I'm Peter Lattimer
 
 ### Data Scientist | Python Developer
 
@@ -6,7 +6,7 @@ I am a Data Scientist with a focus on building high-integrity pipelines, scalabl
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Core Engineering**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,12 +23,12 @@ I am a Data Scientist with a focus on building high-integrity pipelines, scalabl
 
 ---
 
-### 🔭 Current Focus
-- 🤖 **ML/AI in the Cloud**: Deploying LLMs for both data ingestion and querying.
-- 📈 **Quantitative Analysis**: Researching edge through insider and corporate buyback activity.
-- 🏗 **Data Integrity**: Refining my recent work on automated extraction to ensure accuracy.
+### Current Focus
+- **ML/AI in the Cloud**: Deploying LLMs for both data ingestion and querying.
+- **Quantitative Analysis**: Researching edge through insider and corporate buyback activity.
+- **Data Integrity**: Refining my recent work on automated extraction to ensure accuracy.
 
-### 🏆 Key Achievement
+### Key Achievement
 > **LLM Data Extraction Deployment**: Created prompts and pipeline for automated data extraction for 4 datasets.
 > **Snowflake MCP Server**: Collaborated on a custom Snowflake MCP server giving our clients access to database queries through their LLM of choice, no SQL needed.
 > **Data Pipeline Optimization**: Engineered a custom data pipeline that significantly improved data integrity and reduced processing latency, ensuring 100% consistency for downstream analytics.
@@ -43,8 +43,8 @@ I am a Data Scientist with a focus on building high-integrity pipelines, scalabl
 - Jets and Yankees fan
 
 ---
-### 📊 Top Languages
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical)
 
-### 📫 Let's Connect
+### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterlattimer/)
